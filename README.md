@@ -1,0 +1,1 @@
+# INFS762-Data-Warehousing covers the main concepts, components, and various architectures of Data Warehouse. Advanced data analysis and optimization of Data Warehouse Design. Data Warehousing and OLAP tools. Applying data mining algorithms to retrieve highly specialized information or knowledge about the data stored in the Data Warehouse.
